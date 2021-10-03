@@ -1,0 +1,80 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="pbxEjercicio1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAIEAAABiCAYAAAB3cLB8AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
+        wAAADsABataJCQAAAwpJREFUeF7t2k1Wo0AYhWHX5LCX4tjjMjwuwbkTN6FzV+ACnDhzGXSACoGPt/JD
+        I9Wpe+ucZ8BNQZT6KJIiNzf3t42Jw9C0YGhaMDQtGJoWDE0LhqYFQ9OCoWnB0LRgaFowNC0YmhYMTQuG
+        pgVD04KhacHQtGBoWjA0LRiaFgxNC4amBUPTgqFpwdC0YGhaMDQtGJoWDE0LhqYFQ9OCoWnB0LRgaFow
+        vAYvH03bvt7u+PXV3TXPP7s3/Hlt/uDr0aX9C8KwsD9v390Az9t38/yU+rkI1oNhYX0RjAbcfheGhbkI
+        NoZhYWcVwdNr87Xr9f4S8nSbGNrn4+T1/tgfzUPav22TW0p2/8z0fmn/0fvu2+x/2BqGhS0ugjQgQ5b6
+        jAe5P3bb4Phx/52Hz/02DOrC/lR042NsDsPCDgM1bZOTNyuCdNJzV/5kmz5Q8v6z14dBXa9/WzizGWNL
+        GBa2aCagmaHVXWmHY2WPDbPGVBjUFfuf9f/+JgwL+5ci4HZ+EeSnZR7UVfqHQt0choWtOhMEngkAhoUt
+        KoL7x+Y9c5LH8sfu9z//Hn9p/7TtzwTnWVYE+/3CbNBOtaMTfOzYtH87QH1hxUFdpz/+zVvDsLD9iaE2
+        nCwogk76yjW0cIX1x84X2Oy9hyt3PqhL+s/+vlPFvgUMr0GuCOxyGF6DdEW5CFaA4f8szQBdy34os4tg
+        aFowNC0YmhYMTQuGpgXDmnXfLkYLNN1XzcOj5oO02LNr1X8NxbBmYdD7Fb9QBGFVz0VQmW7Q43r+eGk3
+        rUN06/8qC1IY1mi8yIQN1vBdBDVK9/nwkCf7+NlFUKM46Cd+g+AiqFE/6IdBjduBi6BGYdBPPY52EdSl
+        +wnXsUZPJF0EFeoGdbQmELcjF0F9Tq4RRC6C+sRf9Xbb8TZwbD3hWMFcMwxNC4amBUPTgqFpwdC0YGha
+        MDQtGJoWDE0LhqYFQ9OCoWnB0LRgaFowNC0YmhYMTQuGpgVD04KhacHQtGBoWjA0LRiaFgxNC4amBUPT
+        gqFpwdC0YGhCbpu/5vv534JgXskAAAAASUVORK5CYII=
+</value>
+  </data>
+</root>
